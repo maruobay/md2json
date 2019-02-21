@@ -1,0 +1,21 @@
+{
+  "name": "markdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maruo ISONO",
+  "license": "ISC",
+  "dependencies": {
+    "highlight": "^0.2.4",
+    "markdown-it": "^8.4.2",
+    "markdown-it-anchor": "^5.0.2",
+    "markdown-it-container": "^2.0.0",
+    "markdown-it-emoji": "^1.4.0",
+    "markdown-it-mark": "^2.0.0",
+    "markdown-it-meta": "^0.0.1",
+    "markdown-it-table-of-contents": "^0.4.3"
+  }
+}
